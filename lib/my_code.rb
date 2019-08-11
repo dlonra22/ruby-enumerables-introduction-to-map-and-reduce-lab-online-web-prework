@@ -1,5 +1,9 @@
 # My Code here....
+<<<<<<< HEAD
 #my own map
+=======
+
+>>>>>>> 4e66d62603b5fbdfa5ed2686c93ee03bf05d79c2
 def map_to_negativize(array)
    lngth = array.length
    cnt = 0
@@ -11,6 +15,7 @@ def map_to_negativize(array)
    array
  end
 
+<<<<<<< HEAD
 def map_to_no_change (array)
   array
 end
@@ -73,3 +78,10 @@ def reduce_to_any_true (array)
    return false
 end 
   
+=======
+def map_to_no_change(array)
+  array
+end
+ 
+ 
+>>>>>>> 4e66d62603b5fbdfa5ed2686c93ee03bf05d79c2
